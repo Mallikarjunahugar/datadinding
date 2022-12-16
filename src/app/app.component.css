@@ -1,0 +1,16 @@
+label{
+    text-align: end;
+    font-family: 'Times New Roman', Times, serif;    
+    font-size: large;
+}
+.btn{
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+font-size: large;
+font-display: white;
+background-color: rgb(232, 232, 238);
+}
+.form-control{
+    padding-right: 0%;
+    
+}
